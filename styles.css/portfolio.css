@@ -203,3 +203,13 @@ font-weight: 400;
     text-align: center;
     margin-top: 50px;
 }
+
+/* footer style */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100PX;
+    padding: 130PX 200PX;
+
+}
